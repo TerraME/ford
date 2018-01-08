@@ -1,0 +1,7 @@
+version = "0.1"
+license = "GPL"
+package = "ford"
+depends = "terrame (>= 2.0), sci (>= 0.3)"
+title = "Modeling the Environment"
+authors = "Gilberto Camara and Pedro R. Andrade"
+content = "Implements System Dynamics models from the book Modeling the Environment, by Andy Ford."
